@@ -7,7 +7,6 @@ A curated list of links to miniquad/macroquad-related code & resources.
 - [miniquad](https://github.com/not-fl3/miniquad) - main crate, engines below build on top of it. Supports WASM. Therefore everything build on top of it supports WASM too.
 - [macroquad](https://github.com/not-fl3/macroquad) - simple to use library from author of miniquad.
 - [good-web-game](https://github.com/not-fl3/good-web-game) - crate to easily port your [ggez](https://github.com/ggez/ggez) to WASM.
-- [emerald](https://github.com/Bombfuse/emerald) - game engine with physics, audio, graphics, ECS.
 - [rust-rpg-toolkit](https://github.com/olefasting/rust_rpg_toolkit) - a framework for creating customizable and user modifiable action RPG's, using Rust and/or JSON.
 - [omegaquad](https://github.com/gamma-delta/omegaquad) - hackable, opinionated layer on top of Macroquad for writing games
 
